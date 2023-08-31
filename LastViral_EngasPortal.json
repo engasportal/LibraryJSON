@@ -1,8 +1,8 @@
 [   {
         "id" : 1,
-        "name": "VCS SAMA UKHTI",
-        "thumb": "https://img.doodcdn.com/snaps/6r6gnpywxh3d7vc2.jpg",
-        "video": "https://doods.pro/e/x1q7ojpctaja2rb2nfqlxmbc091u70zp",
+        "name": "PENGANTIN BARU NGEWE SAMPAI NANGIS",
+        "thumb": "https://img.doodcdn.co/snaps/k2rgucy3iwbgqojv.jpg",
+        "video": "https://doods.pro/e/stbri22wdyfpb4gokatsuf9jzr2u73n3",
         "genre": "LAST INDONESIAN VIRAL"
     }, {
         "id" : 2,
@@ -150,15 +150,15 @@
         "genre": "LAST INDONESIAN VIRAL"
     }, {
         "id" : 26,
-        "name": "VIRAL GITA GUNAWAN TAIWAN PART 1",
-        "thumb": "https://img.doodcdn.com/snaps/2gnuxcccnthundtn.jpg",
-        "video": "https://doods.pro/e/wl73qe6h6tfw",
+        "name": "GEA COLMEK 1",
+        "thumb": "https://img.doodcdn.com/snaps/2ch9c9rhtasic9ed.jpg",
+        "video": "https://doods.pro/e/7nmchtfm1zb8uz5v2wq6y5yo0nd6kpn4",
         "genre": "LAST INDONESIAN VIRAL"
     }, {
         "id" : 27,
-        "name": "VIRAL GITA GUNAWAN TAIWAN PART 2",
-        "thumb": "https://img.doodcdn.com/snaps/ja7mwmncr0dkrdrt.jpg",
-        "video": "https://doods.pro/e/8geu4aedfe5l",
+        "name": "VCS SAMA UKHTI",
+        "thumb": "https://img.doodcdn.com/snaps/6r6gnpywxh3d7vc2.jpg",
+        "video": "https://doods.pro/e/x1q7ojpctaja2rb2nfqlxmbc091u70zp",
         "genre": "LAST INDONESIAN VIRAL"
     }, {
         "id" : 28,
@@ -747,6 +747,18 @@
         "name": "VIDEO VIRAL MIRIP BACALEG NASDEM MARIA RIZKY RIHI HA'U",
         "thumb": "https://img.doodcdn.com/snaps/cfcwcf1q67m5b8kr.jpg",
         "video": "https://doods.pro/e/4b4wmcxoy6kjdztusvhivx4gkn1f213x",
+        "genre": "LAST INDONESIAN VIRAL"
+    }, {
+        "id" : 126,
+        "name": "VIRAL GITA GUNAWAN TAIWAN PART 1",
+        "thumb": "https://img.doodcdn.com/snaps/2gnuxcccnthundtn.jpg",
+        "video": "https://doods.pro/e/wl73qe6h6tfw",
+        "genre": "LAST INDONESIAN VIRAL"
+    }, {
+        "id" : 127,
+        "name": "VIRAL GITA GUNAWAN TAIWAN PART 2",
+        "thumb": "https://img.doodcdn.com/snaps/ja7mwmncr0dkrdrt.jpg",
+        "video": "https://doods.pro/e/8geu4aedfe5l",
         "genre": "LAST INDONESIAN VIRAL"
     }      
 ]
